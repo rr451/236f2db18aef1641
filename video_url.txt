@@ -1,0 +1,5 @@
+Player URL:
+https://rr451.github.io/player/?list=https://raw.githubusercontent.com/rr451/236f2db18aef1641/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/rr451/236f2db18aef1641/refs/heads/master/github_master.m3u8
